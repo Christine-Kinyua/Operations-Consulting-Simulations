@@ -23,6 +23,10 @@ This portfolio includes simulation-based case studies that illustrate how struct
 ## Objective
 To present a practical, structured, and results-oriented approach to operational consulting that supports growing organizations in building efficient and sustainable systems.
 
+## 📂 Presentations
+All consulting overview and case study presentations can be found in the [presentations](presentations/) folder.
+
+
 
 
 
