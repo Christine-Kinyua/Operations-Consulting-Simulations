@@ -1,4 +1,4 @@
-# Operations & Efficiency Consulting Portfolio
+# Operations & Efficiency Consulting
 
 This repository showcases structured operational improvement simulations and frameworks designed to demonstrate practical approaches to improving efficiency, reducing operational costs, and strengthening business systems.
 
